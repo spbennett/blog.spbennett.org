@@ -2,3 +2,20 @@ baseURL = "http://blog.spbennett.org/"
 languageCode = "en-us"
 title = "Steve Bennett"
 theme = "hugo-theme-massively"
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     foldername = "post"
+#     pagesize = "6"
+#     featuredpost = "true"
+
+[params.settings]
+    googleanalytics = "UA-121227360-1"
+
+[languages]
+[languages.en]
+  languageName = "English"

@@ -1,4 +1,4 @@
-baseURL = "http://blog.spbennett.org/"
+baseURL = "https://blog.spbennett.org/"
 languageCode = "en-us"
 title = "Steve Bennett"
 theme = "hugo-theme-massively"

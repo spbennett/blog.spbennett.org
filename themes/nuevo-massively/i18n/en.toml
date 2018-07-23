@@ -1,0 +1,6 @@
+[INTRO_CONTINUE]
+  other = "Continue"
+[PAGINATION_NEXT]
+  other = "Next"
+[PAGINATION_PREVIOUS]
+  other = "Prev"

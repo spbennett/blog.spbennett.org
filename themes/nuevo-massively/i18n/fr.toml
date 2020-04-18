@@ -1,5 +1,5 @@
 [CONTACT_ADDRESS]
-  other = "Address"
+  other = "Adresse"
 [CONTACT_EMAIL]
   other = "Email"
 [CONTACT_FORM_FIELD_EMAIL]
@@ -7,11 +7,11 @@
 [CONTACT_FORM_FIELD_MESSAGE]
   other = "Message"
 [CONTACT_FORM_FIELD_NAME]
-  other = "Name"
+  other = "Nom"
 [CONTACT_FORM_SUBMIT_SEND_MESSAGE]
-  other = "Send A Message"
+  other = "Envoyer"
 [CONTACT_PHONE]
-  other = "Phone"
+  other = "Téléphone"
 [CONTACT_SOCIAL]
   other = "Social"
 [COPYRIGHT_MESSAGE_1]
@@ -19,14 +19,10 @@
 [COPYRIGHT_MESSAGE_2]
   other = "Hugo Port: [curttimson](https://curtistimson.co.uk)"
 [INTRO_CONTINUE]
-  other = "Continue"
+  other = "Continuer"
 [NAV_CONTACT]
   other = "Contact"
 [PAGINATION_NEXT]
-  other = "Next"
+  other = "Suivant"
 [PAGINATION_PREVIOUS]
-  other = "Prev"
-[PAGINATION_FIRST]
-  other = "First"
-[PAGINATION_LAST]
-  other = "Last"
+  other = "Précédent"
